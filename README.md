@@ -166,3 +166,7 @@ See [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for the greatest hits: `#NAME?`, pe
 ## License
 
 MIT. See [LICENSE](LICENSE). Bet responsibly; if it stops being fun, stop.
+
+---
+
+Part of the [ParlayAPI](https://parlay-api.com) ecosystem: a real-time sports odds API with a free tier of 1,000 credits per month, no card required. Explore all the tools at [github.com/JacobiusMakes](https://github.com/JacobiusMakes).

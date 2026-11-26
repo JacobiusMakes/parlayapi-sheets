@@ -15,6 +15,10 @@ Powered by [ParlayAPI](https://parlay-api.com), a real-time sports odds API cove
 
 ---
 
+## Try the offline workbook
+
+For a first exercise you can open offline, try the [quote freshness workbook](workbooks/quote-freshness/). Its six fictional quotes show how a newly received price can already be old. You can edit the clocks and see which quotes qualify before installing Apps Script.
+
 ## Install (about 2 minutes)
 
 1. Open any Google Sheet (or make a new one at [sheets.new](https://sheets.new)).
